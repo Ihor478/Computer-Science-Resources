@@ -65,6 +65,7 @@
 - [Mathematics of Big Data and Machine Learning](https://www.youtube.com/watch?v=0sKPkJME2Jw)
 - [Algorithms for Big Data](https://www.youtube.com/watch?v=s9xSfIw83tk&amp;list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf)
 - [Intelligence from Big Data](https://www.youtube.com/watch?v=czLI3oLDe8M)
+- [Data science and analytics services](https://inoxoft.com/service/big-data-analytics-and-machine-learning-services/)
 
 ---------------------------------------
 
